@@ -10,7 +10,7 @@ html {
 }
 
 body {
-    margin: 10% 5%;
+    margin: 5% 5%;
     width: 80%;
     height: 100%;
     background-color:#F6F6FA;
@@ -32,13 +32,13 @@ header {
 
 section {
     width: 70%;
-    padding: 40px;
+    padding: 75px;
     box-sizing: border-box;
 }
 
 aside {
     width: 30%;
-    background-color: #D4EBF8;
+    background-color: #00B2EE;
     padding-top: 25px;
     justify-items: center;
     box-sizing: border-box;
@@ -49,4 +49,18 @@ aside {
     margin: 0;
     padding: 0;
     padding-top: 25px;
+}
+
+h1 {
+    font-size: 50px;
+    line-height: 50px;
+    margin-bottom: 15px;
+}
+
+p {
+    color: #a5a5a5;
+}
+
+div {
+    margin: 20px 0;
 }
